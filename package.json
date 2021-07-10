@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "package1": "git+https://github.com.mocos.kitchen/"
+    "package1": "git+https://github.com.mocos.kitchen/username/repo"
   }
 }
